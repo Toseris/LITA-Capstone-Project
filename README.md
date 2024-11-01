@@ -91,9 +91,9 @@ EDA involves the examination of data to uncover patterns, spot anomalies, and ch
   This is where we include some basic lines of codes or queries or even some of the DAX expressions used during your analysis
 
   ```SQL
-  SELECT * FROM SALESDATA
+  Select * from [dbo].[LITA SalesData]
 
- SELECT 
+ Select 
 	Product, 
 	SUM(Revenue) AS TotalRevenuePerProduct
 FROM 
@@ -103,6 +103,16 @@ GROUP BY
 ORDER BY 
 	TotalRevenuePerProduct DESC
   ```
+TOTAL REVENUE PER REGION	
+|REGION  |TOTAL REVENUE|
+|------- |-------------|
+|North 	 |387,000 |
+|South	 |927,820 |
+|East	 |485,925 |
+|West	 |300,345 |
+|TOTAL REVENUE| 2,101,090| 
+![image](https://github.com/user-attachments/assets/6a062ecf-9cdd-4dc2-97a7-7684d601b9ce)
 
+### Data Visualization
 
 
