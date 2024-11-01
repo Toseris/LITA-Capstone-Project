@@ -42,6 +42,7 @@ Provide actionable insights to improve sales strategies and enhance customer exp
 Suggest improvements in product offerings and customer engagement tactics.
 
 ### Data Sources
+---
 The data source used an Excel worksheet which consist of Sales and Customer data and other worksheet like this can be found on Kaggle or any other data site.
 
 ### Tools Used
