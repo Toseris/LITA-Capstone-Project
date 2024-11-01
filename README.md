@@ -103,6 +103,7 @@ GROUP BY
 ORDER BY 
 	TotalRevenuePerProduct DESC
   ```
+```EXCEL
 TOTAL REVENUE PER REGION	
 |REGION  |TOTAL REVENUE|
 |------- |-------------|
@@ -111,8 +112,7 @@ TOTAL REVENUE PER REGION
 |East	 |485,925 |
 |West	 |300,345 |
 |TOTAL REVENUE| 2,101,090| 
-![image](https://github.com/user-attachments/assets/6a062ecf-9cdd-4dc2-97a7-7684d601b9ce)
-
+```
 ### Data Visualization
 
 
