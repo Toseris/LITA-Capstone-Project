@@ -93,14 +93,15 @@ EDA involves the examination of data to uncover patterns, spot anomalies, and ch
   ```SQL
   SELECT * FROM SALESDATA
 
-  SELECT PRODUCT,
-    SUM (QUANTITY) AS REVENUE
-  FROM
-      [DBO.SALESDATA]
-  GROUP BY
-     PRODUCT
-ORDER BY
-    REVENUE DESC
+ SELECT 
+	Product, 
+	SUM(Revenue) AS TotalRevenuePerProduct
+FROM 
+	[dbo].[LITA SalesData]
+GROUP BY 
+	Product
+ORDER BY 
+	TotalRevenuePerProduct DESC
   ```
 
 
