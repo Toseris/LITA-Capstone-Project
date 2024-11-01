@@ -66,12 +66,25 @@ The data source used an Excel worksheet which consist of Sales and Customer data
   
 ### Data Cleaning and Preparations
 ---
-In the initial phase of Data cleaning and preparations, we perform the following actions;
-1. Data loading and Ispection
-2. Handling missing variables
-3. Data Cleaning and Formatting
+Data cleaning and preparation is a crucial first step in data analysis, ensuring that data is accurate, consistent, and ready for analysis;
+1. Handling Missing Values
+2. Removing Duplicates
+3. Validation and Consistency Checks
+4. Documenting Data Cleaning Process
 
-
+### Exploratory Data Analysis
+---
+EDA involves the examination of data to uncover patterns, spot anomalies, and check assumption. It also involved the exploring of the Data to answer some questions 
+  about the Data such as ;
+- What is the size of the dataset (number of rows and columns)?
+- What are the monthly, quarterly, and yearly sales trends? Is there an observable upward or downward trend over time?
+- Are there any duplicate rows or records that need to be removed?
+- Is there sufficient data to answer the key questions or support a model?
+- How many unique customers, products, and regions are there in the dataset?
+- Which products generate the highest sales, and what is their percentage contribution to overall sales?
+- Which regions or cities have the highest sales, and how do they compare with other regions?
+- Are certain product categories consistently performing well across all regions?
+- Based on historical data, what are potential future sales trends?
 
 
 
