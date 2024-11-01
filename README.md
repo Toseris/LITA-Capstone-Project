@@ -21,7 +21,6 @@ To analyze sales performance and customer behavior to identify trends, enhance c
 Key Goals:
 
 1.Sales Performance Evaluation:
-
 Assess sales data over a specific period to determine overall performance.
 Identify high-performing products/services and underperformers.
 
@@ -29,11 +28,11 @@ Identify high-performing products/services and underperformers.
 Analyze customer demographics, purchase history, and preferences.
 Segment customers into distinct groups for targeted marketing strategies.
 
-3. Trend Identification:
+3.Trend Identification:
 Discover seasonal trends and purchasing patterns.
 Evaluate the impact of marketing campaigns on sales.
 
-4. Customer Satisfaction Analysis:
+4.Customer Satisfaction Analysis:
 Gather customer feedback through surveys and reviews.
 Analyze the correlation between satisfaction levels and sales.
 
