@@ -107,10 +107,10 @@ ORDER BY
 TOTAL REVENUE PER REGION	
 |REGION  |TOTAL REVENUE|
 |------- |-------------|
-|North 	 |387,000 |
-|South	 |927,820 |
-|East	 |485,925 |
-|West	 |300,345 |
+|North 	 |387,000      |
+|South	 |927,820      |
+|East	 |485,925      |
+|West	 |300,345      |
 |TOTAL REVENUE| 2,101,090| 
 
 ### Data Visualization
