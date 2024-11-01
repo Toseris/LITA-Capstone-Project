@@ -86,7 +86,22 @@ EDA involves the examination of data to uncover patterns, spot anomalies, and ch
 - Are certain product categories consistently performing well across all regions?
 - Based on historical data, what are potential future sales trends?
 
+### Data Analysis
+  ---
+  This is where we include some basic lines of codes or queries or even some of the DAX expressions used during your analysis
 
+  ```SQL
+  SELECT * FROM SALESDATA
+
+  SELECT PRODUCT,
+    SUM (QUANTITY) AS REVENUE
+  FROM
+      [DBO.SALESDATA]
+  GROUP BY
+     PRODUCT
+ORDER BY
+    REVENUE DESC
+  ```
 
 
 
