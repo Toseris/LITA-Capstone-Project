@@ -1,6 +1,6 @@
 # LITA-Capstone-Project
 
-### Project Title : Customer And Sales Data Analysis
+### Project Title : Customer Data Analysis
  [Project Overview](#project-overview)
  
  [Data Sources](#data-sources)
@@ -21,29 +21,21 @@ To analyze sales performance and customer behavior to identify trends, enhance c
 
 Key Goals:
 
-1.Sales Performance Evaluation:
-Assess sales data over a specific period to determine overall performance.
-Identify high-performing products/services and underperformers.
-
-2.Customer Segmentation:
+1.Customer Segmentation:
 Analyze customer demographics, purchase history, and preferences.
 Segment customers into distinct groups for targeted marketing strategies.
 
-3.Trend Identification:
-Discover seasonal trends and purchasing patterns.
-Evaluate the impact of marketing campaigns on sales.
-
-4.Customer Satisfaction Analysis:
+2.Customer Satisfaction Analysis:
 Gather customer feedback through surveys and reviews.
 Analyze the correlation between satisfaction levels and sales.
 
-5.Recommendations:
+3.Recommendations:
 Provide actionable insights to improve sales strategies and enhance customer experience.
 Suggest improvements in product offerings and customer engagement tactics.
 
 ### Data Sources
 ---
-The data source used an Excel worksheet which consist of Sales and Customer data and other worksheet like this can be found on Kaggle or any other data site.
+The data source used an Excel worksheet by The Incubator Hub which consist of Customer data and Sales data. Other worksheet like this can be found on Kaggle or any other data site.
 
 ### Tools Used
 ---
@@ -78,14 +70,9 @@ Data cleaning and preparation is a crucial first step in data analysis, ensuring
 EDA involves the examination of data to uncover patterns, spot anomalies, and check assumption. It also involved the exploring of the Data to answer some questions 
   about the Data such as ;
 - What is the size of the dataset (number of rows and columns)?
-- What are the monthly, quarterly, and yearly sales trends? Is there an observable upward or downward trend over time?
 - Are there any duplicate rows or records that need to be removed?
 - Is there sufficient data to answer the key questions or support a model?
 - How many unique customers, products, and regions are there in the dataset?
-- Which products generate the highest sales, and what is their percentage contribution to overall sales?
-- Which regions or cities have the highest sales, and how do they compare with other regions?
-- Are certain product categories consistently performing well across all regions?
-- Based on historical data, what are potential future sales trends?
 
 ### Data Analysis
   ---
@@ -104,15 +91,15 @@ GROUP BY
 ORDER BY 
 	TotalRevenuePerProduct DESC
   ```
- 	EXCEL
-TOTAL REVENUE PER REGION	
-|REGION  |TOTAL REVENUE|
+ 	EXCEL	
+Sum of Revenue by Region	
+|Region| Sum of Revenue|
 |------- |-------------|
-|North 	 |387,000      |
-|South	 |927,820      |
-|East	 |485,925      |
-|West	 |300,345      |
-|TOTAL REVENUE| 2,101,090| 
+|East	|16958763|
+|North	|16817972|
+|South	|16899064|
+|West	|16864376|
+|Grand Total|	67540175|
 
 ### Data Visualization
 
