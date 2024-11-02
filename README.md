@@ -102,5 +102,7 @@ Sum of Revenue by Region
 |Grand Total|	67540175|
 
 ### Data Visualization
+![Powerbi CD](https://github.com/user-attachments/assets/7c964a9f-0456-49c5-81f8-8c3504ec0bc3)
 
 
+![Customer data](https://github.com/user-attachments/assets/dcc4e7ad-40fc-481a-9dd9-550bbb10fa26)
