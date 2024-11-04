@@ -106,3 +106,11 @@ Sum of Revenue by Region
 
 
 ![Customer data](https://github.com/user-attachments/assets/dcc4e7ad-40fc-481a-9dd9-550bbb10fa26)
+![CD 2](https://github.com/user-attachments/assets/f554ef8e-46f1-4427-96b6-a2e2dd43700c)
+![CD 3](https://github.com/user-attachments/assets/c23cd1d5-93c8-46e7-9595-de8bf5531df2)
+![CD 4](https://github.com/user-attachments/assets/48b12e25-14cd-4524-9d29-b5bcb0048706)
+![CD 5](https://github.com/user-attachments/assets/c686e09e-3721-4071-8215-bf66e5cac469)
+![CD 6](https://github.com/user-attachments/assets/8ed4ac7d-ce2f-4693-a2d4-340d649bcc09)
+![CD 7](https://github.com/user-attachments/assets/2389157c-7331-4ef1-802c-3290139869be)
+![CD 8](https://github.com/user-attachments/assets/b9f23b43-7847-44d7-940d-e51435b8cda1)
+![CD1](https://github.com/user-attachments/assets/56d116ae-9080-41c4-89b5-91dd35abf87a)
