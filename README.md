@@ -1,4 +1,5 @@
 # LITA-Capstone-Project
+A project focused on analyzing customer data to understand behavior, preferences, and trends to help businesses make customer-centric decisions.
 
 ### Project Title : Customer Data Analysis
  [Project Overview](#project-overview)
